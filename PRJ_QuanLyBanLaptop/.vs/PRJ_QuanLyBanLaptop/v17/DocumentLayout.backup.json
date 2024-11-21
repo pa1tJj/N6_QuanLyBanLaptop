@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|c:\\users\\phan anh tuan\\onedrive\\documents\\project c#\\prj_quanlybanlaptop\\prj_quanlybanlaptop\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|c:\\users\\phan anh tuan\\onedrive\\documents\\project c#\\prj_quanlybanlaptop\\prj_quanlybanlaptop\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|c:\\users\\phan anh tuan\\onedrive\\documents\\project c#\\prj_quanlybanlaptop\\prj_quanlybanlaptop\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmtrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmthongtinchitietmothoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmthongtinchitietmothoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmchitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\frmdangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\prj_quanlybanlaptop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADFFD73-349E-4461-BB89-A25101817A5E}|PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop.csproj|solutionrelative:prj_quanlybanlaptop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmTrangChu.cs",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmTrangChu.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmTrangChu.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmTrangChu.cs",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmTrangChu.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:47:40.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmNhanVien.cs*",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmNhanVien.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwGkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:27:05.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmChiTietDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmChiTietDonHang.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmChiTietDonHang.cs",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmChiTietDonHang.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:38:49.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmThongKe.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmThongKe.cs",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmThongKe.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwGYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:34:25.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmThongTinChiTietMotHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmThongTinChiTietMotHoaDon.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmThongTinChiTietMotHoaDon.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmThongTinChiTietMotHoaDon.cs [Design]",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmThongTinChiTietMotHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:33:04.716Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmThongKe.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmThongKe.cs [Design]",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:32:59.494Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmChiTietDonHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmChiTietDonHang.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmChiTietDonHang.cs [Design]",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmChiTietDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:30:15.48Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmTrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmTrangChu.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmTrangChu.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmTrangChu.cs [Design]",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmTrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T22:12:42.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmDangKy.cs",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmDangKy.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmDangKy.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmDangKy.cs",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmDangKy.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:15:03.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmDangKy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmDangKy.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmDangKy.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmDangKy.cs [Design]",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmDangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:02:11.214Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\Program.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\Program.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\Program.cs",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T21:01:21.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmDangNhap.cs",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmDangNhap.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwDkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:57:41.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmDangNhap.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmDangNhap.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmDangNhap.cs [Design]",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:30:43.967Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmKhachHang.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmKhachHang.cs",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmKhachHang.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA/wDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:26:51.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmKhachHang.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmKhachHang.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmKhachHang.cs [Design]",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:26:49.704Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmHoaDon.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmHoaDon.cs",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmHoaDon.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAQwK4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:20:58.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmHoaDon.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:20:56.377Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmNhanVien.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmNhanVien.cs [Design]*",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmNhanVien.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T20:16:37.207Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmSanPham.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmSanPham.cs",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmSanPham.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:43:54.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "PRJ_QuanLyBanLaptop\\frmSanPham.cs",
+              "ToolTip": "C:\\Users\\PHAN ANH TUAN\\OneDrive\\Documents\\project C#\\PRJ_QuanLyBanLaptop\\PRJ_QuanLyBanLaptop\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "PRJ_QuanLyBanLaptop\\frmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T19:43:52.203Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
